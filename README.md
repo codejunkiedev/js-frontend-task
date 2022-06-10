@@ -1,4 +1,4 @@
-# CodeJunkie - JS Frontend Assignment
+# CodeJunkie JS Frontend Assignment
 
 This project is a template for the assignment.
 To run the project
