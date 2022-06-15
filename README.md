@@ -3,11 +3,11 @@
 This project is a template for the assignment.
 To run the project
 
-### `yarn install`
+### `npm install`
 
 and then
 
-### `yarn start`
+### `npm start`
 
 ## General rules for the assignment:
 

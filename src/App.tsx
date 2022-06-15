@@ -1,8 +1,10 @@
 import React from "react"
 import logo from "./background_map.svg"
 import "./App.css"
-import ContactList from "@com/contacts/ContactList"
-import ContactsStore from "@state/stores/ContactsStore"
+// import ContactList from "@com/contacts/ContactList"
+// import ContactsStore from "@state/stores/ContactsStore"
+import ContactList from "./components/contacts/ContactList"
+import ContactsStore from "./stores/ContactsStore"
 
 const App: React.FunctionComponent = () => {
   return (
